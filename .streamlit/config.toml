@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#6B2D4A"
+backgroundColor = "#F6F3EC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#16181D"
+font = "Libre Baskerville:https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap"
+borderColor = "#D6CFBF"
+baseRadius = "4px"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
